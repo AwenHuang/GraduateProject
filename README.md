@@ -9,3 +9,6 @@ Leap Motion + BulletPhysics + OpenGL
 
 形變的主體code主要寫在
 src -> BulletSoftBody -> btSoftBody.cpp, 1558行開始
+
+Demo Video
+https://youtu.be/ymW3nfn7wBQ
