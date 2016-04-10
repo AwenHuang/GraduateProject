@@ -6,3 +6,6 @@ Leap Motion + BulletPhysics + OpenGL
 
 選用的柔體是由三角形組成，我做的事情主要就是根據使用者剪到的位置不斷去新增新的節點，不斷的打破原本的結構
 ，在不斷的重新連成三角形。
+
+形變的主體code主要寫在
+src -> BulletSoftBody -> btSoftBody.cpp, 1558行開始
