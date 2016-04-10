@@ -1,0 +1,13 @@
+extern int last_impact;
+extern int last_rcut;
+extern int last_lcut;
+extern int last_right;
+extern int last_left;
+extern int last_up;
+extern int last_face[2];
+extern int start_node;
+extern int current_mode;
+extern float impact_x;
+extern float impact_y;
+extern float impact_z;
+extern bool teach_mode;

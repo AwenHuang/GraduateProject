@@ -1,0 +1,940 @@
+第1個link:l.m_n[0]-nbase = 0	l.m_n[1]-nbase = 1
+第2個link:l.m_n[0]-nbase = 0	l.m_n[1]-nbase = 3
+第3個link:l.m_n[0]-nbase = 44	l.m_n[1]-nbase = 4
+第4個link:l.m_n[0]-nbase = 1	l.m_n[1]-nbase = 2
+第5個link:l.m_n[0]-nbase = 1	l.m_n[1]-nbase = 4
+第6個link:l.m_n[0]-nbase = 49	l.m_n[1]-nbase = 4
+第7個link:l.m_n[0]-nbase = 2	l.m_n[1]-nbase = 5
+第8個link:l.m_n[0]-nbase = 34	l.m_n[1]-nbase = 4
+第9個link:l.m_n[0]-nbase = 3	l.m_n[1]-nbase = 6
+第10個link:l.m_n[0]-nbase = 24	l.m_n[1]-nbase = 6
+第11個link:l.m_n[0]-nbase = 39	l.m_n[1]-nbase = 4
+第12個link:l.m_n[0]-nbase = 10	l.m_n[1]-nbase = 7
+第13個link:l.m_n[0]-nbase = 29	l.m_n[1]-nbase = 8
+第14個link:l.m_n[0]-nbase = 5	l.m_n[1]-nbase = 8
+第15個link:l.m_n[0]-nbase = 6	l.m_n[1]-nbase = 7
+第16個link:l.m_n[0]-nbase = 7	l.m_n[1]-nbase = 8
+第17個link:l.m_n[0]-nbase = 9	l.m_n[1]-nbase = 6
+第18個link:l.m_n[0]-nbase = 18	l.m_n[1]-nbase = 9
+第19個link:l.m_n[0]-nbase = 9	l.m_n[1]-nbase = 10
+第20個link:l.m_n[0]-nbase = 11	l.m_n[1]-nbase = 13
+第21個link:l.m_n[0]-nbase = 10	l.m_n[1]-nbase = 12
+第22個link:l.m_n[0]-nbase = 11	l.m_n[1]-nbase = 4
+第23個link:l.m_n[0]-nbase = 7	l.m_n[1]-nbase = 12
+第24個link:l.m_n[0]-nbase = 13	l.m_n[1]-nbase = 4
+第25個link:l.m_n[0]-nbase = 14	l.m_n[1]-nbase = 8
+第26個link:l.m_n[0]-nbase = 21	l.m_n[1]-nbase = 14
+第27個link:l.m_n[0]-nbase = 14	l.m_n[1]-nbase = 15
+第28個link:l.m_n[0]-nbase = 16	l.m_n[1]-nbase = 13
+第29個link:l.m_n[0]-nbase = 15	l.m_n[1]-nbase = 12
+第30個link:l.m_n[0]-nbase = 16	l.m_n[1]-nbase = 4
+第31個link:l.m_n[0]-nbase = 15	l.m_n[1]-nbase = 7
+第32個link:l.m_n[0]-nbase = 7	l.m_n[1]-nbase = 12
+第33個link:l.m_n[0]-nbase = 13	l.m_n[1]-nbase = 4
+第34個link:l.m_n[0]-nbase = 17	l.m_n[1]-nbase = 6
+第35個link:l.m_n[0]-nbase = 27	l.m_n[1]-nbase = 4
+第36個link:l.m_n[0]-nbase = 17	l.m_n[1]-nbase = 18
+第37個link:l.m_n[0]-nbase = 19	l.m_n[1]-nbase = 11
+第38個link:l.m_n[0]-nbase = 19	l.m_n[1]-nbase = 4
+第39個link:l.m_n[0]-nbase = 20	l.m_n[1]-nbase = 8
+第40個link:l.m_n[0]-nbase = 32	l.m_n[1]-nbase = 4
+第41個link:l.m_n[0]-nbase = 20	l.m_n[1]-nbase = 21
+第42個link:l.m_n[0]-nbase = 22	l.m_n[1]-nbase = 16
+第43個link:l.m_n[0]-nbase = 22	l.m_n[1]-nbase = 4
+第44個link:l.m_n[0]-nbase = 27	l.m_n[1]-nbase = 19
+第45個link:l.m_n[0]-nbase = 26	l.m_n[1]-nbase = 17
+第46個link:l.m_n[0]-nbase = 23	l.m_n[1]-nbase = 3
+第47個link:l.m_n[0]-nbase = 37	l.m_n[1]-nbase = 3
+第48個link:l.m_n[0]-nbase = 23	l.m_n[1]-nbase = 24
+第49個link:l.m_n[0]-nbase = 25	l.m_n[1]-nbase = 27
+第50個link:l.m_n[0]-nbase = 24	l.m_n[1]-nbase = 26
+第51個link:l.m_n[0]-nbase = 25	l.m_n[1]-nbase = 4
+第52個link:l.m_n[0]-nbase = 6	l.m_n[1]-nbase = 26
+第53個link:l.m_n[0]-nbase = 32	l.m_n[1]-nbase = 22
+第54個link:l.m_n[0]-nbase = 31	l.m_n[1]-nbase = 20
+第55個link:l.m_n[0]-nbase = 28	l.m_n[1]-nbase = 5
+第56個link:l.m_n[0]-nbase = 42	l.m_n[1]-nbase = 5
+第57個link:l.m_n[0]-nbase = 28	l.m_n[1]-nbase = 29
+第58個link:l.m_n[0]-nbase = 30	l.m_n[1]-nbase = 32
+第59個link:l.m_n[0]-nbase = 29	l.m_n[1]-nbase = 31
+第60個link:l.m_n[0]-nbase = 30	l.m_n[1]-nbase = 4
+第61個link:l.m_n[0]-nbase = 8	l.m_n[1]-nbase = 31
+第62個link:l.m_n[0]-nbase = 36	l.m_n[1]-nbase = 25
+第63個link:l.m_n[0]-nbase = 37	l.m_n[1]-nbase = 23
+第64個link:l.m_n[0]-nbase = 33	l.m_n[1]-nbase = 0
+第65個link:l.m_n[0]-nbase = 33	l.m_n[1]-nbase = 35
+第66個link:l.m_n[0]-nbase = 47	l.m_n[1]-nbase = 0
+第67個link:l.m_n[0]-nbase = 35	l.m_n[1]-nbase = 37
+第68個link:l.m_n[0]-nbase = 34	l.m_n[1]-nbase = 36
+第69個link:l.m_n[0]-nbase = 35	l.m_n[1]-nbase = 3
+第70個link:l.m_n[0]-nbase = 4	l.m_n[1]-nbase = 36
+第71個link:l.m_n[0]-nbase = 41	l.m_n[1]-nbase = 30
+第72個link:l.m_n[0]-nbase = 42	l.m_n[1]-nbase = 28
+第73個link:l.m_n[0]-nbase = 38	l.m_n[1]-nbase = 2
+第74個link:l.m_n[0]-nbase = 38	l.m_n[1]-nbase = 40
+第75個link:l.m_n[0]-nbase = 52	l.m_n[1]-nbase = 2
+第76個link:l.m_n[0]-nbase = 40	l.m_n[1]-nbase = 42
+第77個link:l.m_n[0]-nbase = 39	l.m_n[1]-nbase = 41
+第78個link:l.m_n[0]-nbase = 40	l.m_n[1]-nbase = 5
+第79個link:l.m_n[0]-nbase = 4	l.m_n[1]-nbase = 41
+第80個link:l.m_n[0]-nbase = 47	l.m_n[1]-nbase = 33
+第81個link:l.m_n[0]-nbase = 46	l.m_n[1]-nbase = 34
+第82個link:l.m_n[0]-nbase = 43	l.m_n[1]-nbase = 1
+第83個link:l.m_n[0]-nbase = 43	l.m_n[1]-nbase = 45
+第84個link:l.m_n[0]-nbase = 54	l.m_n[1]-nbase = 4
+第85個link:l.m_n[0]-nbase = 45	l.m_n[1]-nbase = 47
+第86個link:l.m_n[0]-nbase = 44	l.m_n[1]-nbase = 46
+第87個link:l.m_n[0]-nbase = 45	l.m_n[1]-nbase = 0
+第88個link:l.m_n[0]-nbase = 4	l.m_n[1]-nbase = 46
+第89個link:l.m_n[0]-nbase = 52	l.m_n[1]-nbase = 38
+第90個link:l.m_n[0]-nbase = 51	l.m_n[1]-nbase = 39
+第91個link:l.m_n[0]-nbase = 48	l.m_n[1]-nbase = 1
+第92個link:l.m_n[0]-nbase = 48	l.m_n[1]-nbase = 50
+第93個link:l.m_n[0]-nbase = 57	l.m_n[1]-nbase = 4
+第94個link:l.m_n[0]-nbase = 50	l.m_n[1]-nbase = 52
+第95個link:l.m_n[0]-nbase = 49	l.m_n[1]-nbase = 51
+第96個link:l.m_n[0]-nbase = 50	l.m_n[1]-nbase = 2
+第97個link:l.m_n[0]-nbase = 4	l.m_n[1]-nbase = 51
+第98個link:l.m_n[0]-nbase = 53	l.m_n[1]-nbase = 1
+第99個link:l.m_n[0]-nbase = 53	l.m_n[1]-nbase = 55
+第100個link:l.m_n[0]-nbase = 53	l.m_n[1]-nbase = 54
+第101個link:l.m_n[0]-nbase = 54	l.m_n[1]-nbase = 44
+第102個link:l.m_n[0]-nbase = 55	l.m_n[1]-nbase = 43
+第103個link:l.m_n[0]-nbase = 56	l.m_n[1]-nbase = 1
+第104個link:l.m_n[0]-nbase = 56	l.m_n[1]-nbase = 58
+第105個link:l.m_n[0]-nbase = 56	l.m_n[1]-nbase = 57
+第106個link:l.m_n[0]-nbase = 57	l.m_n[1]-nbase = 49
+第107個link:l.m_n[0]-nbase = 58	l.m_n[1]-nbase = 48
+第1個face:
+f.m_n[0]-nbase = 0	f.m_n[1]-nbase = 45
+f.m_n[1]-nbase = 45	f.m_n[2]-nbase = 47
+f.m_n[2]-nbase = 47	f.m_n[0]-nbase = 0
+第2個face:
+f.m_n[0]-nbase = 3	f.m_n[1]-nbase = 35
+f.m_n[1]-nbase = 35	f.m_n[2]-nbase = 37
+f.m_n[2]-nbase = 37	f.m_n[0]-nbase = 3
+第3個face:
+f.m_n[0]-nbase = 2	f.m_n[1]-nbase = 50
+f.m_n[1]-nbase = 50	f.m_n[2]-nbase = 52
+f.m_n[2]-nbase = 52	f.m_n[0]-nbase = 2
+第4個face:
+f.m_n[0]-nbase = 5	f.m_n[1]-nbase = 40
+f.m_n[1]-nbase = 40	f.m_n[2]-nbase = 42
+f.m_n[2]-nbase = 42	f.m_n[0]-nbase = 5
+第5個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 25
+f.m_n[1]-nbase = 25	f.m_n[2]-nbase = 27
+f.m_n[2]-nbase = 27	f.m_n[0]-nbase = 4
+第6個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 11
+f.m_n[1]-nbase = 11	f.m_n[2]-nbase = 13
+f.m_n[2]-nbase = 13	f.m_n[0]-nbase = 4
+第7個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 30
+f.m_n[1]-nbase = 30	f.m_n[2]-nbase = 32
+f.m_n[2]-nbase = 32	f.m_n[0]-nbase = 4
+第8個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 16
+f.m_n[1]-nbase = 16	f.m_n[2]-nbase = 13
+f.m_n[2]-nbase = 13	f.m_n[0]-nbase = 4
+第9個face:
+f.m_n[0]-nbase = 9	f.m_n[1]-nbase = 6
+f.m_n[1]-nbase = 6	f.m_n[2]-nbase = 7
+f.m_n[2]-nbase = 7	f.m_n[0]-nbase = 9
+第10個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 19
+f.m_n[1]-nbase = 19	f.m_n[2]-nbase = 11
+f.m_n[2]-nbase = 11	f.m_n[0]-nbase = 4
+第11個face:
+f.m_n[0]-nbase = 10	f.m_n[1]-nbase = 12
+f.m_n[1]-nbase = 12	f.m_n[2]-nbase = 7
+f.m_n[2]-nbase = 7	f.m_n[0]-nbase = 10
+第12個face:
+f.m_n[0]-nbase = 14	f.m_n[1]-nbase = 8
+f.m_n[1]-nbase = 8	f.m_n[2]-nbase = 7
+f.m_n[2]-nbase = 7	f.m_n[0]-nbase = 14
+第13個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 22
+f.m_n[1]-nbase = 22	f.m_n[2]-nbase = 16
+f.m_n[2]-nbase = 16	f.m_n[0]-nbase = 4
+第14個face:
+f.m_n[0]-nbase = 15	f.m_n[1]-nbase = 12
+f.m_n[1]-nbase = 12	f.m_n[2]-nbase = 7
+f.m_n[2]-nbase = 7	f.m_n[0]-nbase = 15
+第15個face:
+f.m_n[0]-nbase = 17	f.m_n[1]-nbase = 6
+f.m_n[1]-nbase = 6	f.m_n[2]-nbase = 9
+f.m_n[2]-nbase = 9	f.m_n[0]-nbase = 17
+第16個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 19
+f.m_n[1]-nbase = 19	f.m_n[2]-nbase = 27
+f.m_n[2]-nbase = 27	f.m_n[0]-nbase = 4
+第17個face:
+f.m_n[0]-nbase = 20	f.m_n[1]-nbase = 8
+f.m_n[1]-nbase = 8	f.m_n[2]-nbase = 14
+f.m_n[2]-nbase = 14	f.m_n[0]-nbase = 20
+第18個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 22
+f.m_n[1]-nbase = 22	f.m_n[2]-nbase = 32
+f.m_n[2]-nbase = 32	f.m_n[0]-nbase = 4
+第19個face:
+f.m_n[0]-nbase = 17	f.m_n[1]-nbase = 26
+f.m_n[1]-nbase = 26	f.m_n[2]-nbase = 6
+f.m_n[2]-nbase = 6	f.m_n[0]-nbase = 17
+第20個face:
+f.m_n[0]-nbase = 23	f.m_n[1]-nbase = 3
+f.m_n[1]-nbase = 3	f.m_n[2]-nbase = 6
+f.m_n[2]-nbase = 6	f.m_n[0]-nbase = 23
+第21個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 25
+f.m_n[1]-nbase = 25	f.m_n[2]-nbase = 36
+f.m_n[2]-nbase = 36	f.m_n[0]-nbase = 4
+第22個face:
+f.m_n[0]-nbase = 24	f.m_n[1]-nbase = 26
+f.m_n[1]-nbase = 26	f.m_n[2]-nbase = 6
+f.m_n[2]-nbase = 6	f.m_n[0]-nbase = 24
+第23個face:
+f.m_n[0]-nbase = 20	f.m_n[1]-nbase = 31
+f.m_n[1]-nbase = 31	f.m_n[2]-nbase = 8
+f.m_n[2]-nbase = 8	f.m_n[0]-nbase = 20
+第24個face:
+f.m_n[0]-nbase = 28	f.m_n[1]-nbase = 5
+f.m_n[1]-nbase = 5	f.m_n[2]-nbase = 8
+f.m_n[2]-nbase = 8	f.m_n[0]-nbase = 28
+第25個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 30
+f.m_n[1]-nbase = 30	f.m_n[2]-nbase = 41
+f.m_n[2]-nbase = 41	f.m_n[0]-nbase = 4
+第26個face:
+f.m_n[0]-nbase = 29	f.m_n[1]-nbase = 31
+f.m_n[1]-nbase = 31	f.m_n[2]-nbase = 8
+f.m_n[2]-nbase = 8	f.m_n[0]-nbase = 29
+第27個face:
+f.m_n[0]-nbase = 23	f.m_n[1]-nbase = 37
+f.m_n[1]-nbase = 37	f.m_n[2]-nbase = 3
+f.m_n[2]-nbase = 3	f.m_n[0]-nbase = 23
+第28個face:
+f.m_n[0]-nbase = 0	f.m_n[1]-nbase = 33
+f.m_n[1]-nbase = 33	f.m_n[2]-nbase = 47
+f.m_n[2]-nbase = 47	f.m_n[0]-nbase = 0
+第29個face:
+f.m_n[0]-nbase = 3	f.m_n[1]-nbase = 0
+f.m_n[1]-nbase = 0	f.m_n[2]-nbase = 33
+f.m_n[2]-nbase = 33	f.m_n[0]-nbase = 3
+第30個face:
+f.m_n[0]-nbase = 34	f.m_n[1]-nbase = 36
+f.m_n[1]-nbase = 36	f.m_n[2]-nbase = 4
+f.m_n[2]-nbase = 4	f.m_n[0]-nbase = 34
+第31個face:
+f.m_n[0]-nbase = 28	f.m_n[1]-nbase = 42
+f.m_n[1]-nbase = 42	f.m_n[2]-nbase = 5
+f.m_n[2]-nbase = 5	f.m_n[0]-nbase = 28
+第32個face:
+f.m_n[0]-nbase = 2	f.m_n[1]-nbase = 38
+f.m_n[1]-nbase = 38	f.m_n[2]-nbase = 52
+f.m_n[2]-nbase = 52	f.m_n[0]-nbase = 2
+第33個face:
+f.m_n[0]-nbase = 5	f.m_n[1]-nbase = 2
+f.m_n[1]-nbase = 2	f.m_n[2]-nbase = 38
+f.m_n[2]-nbase = 38	f.m_n[0]-nbase = 5
+第34個face:
+f.m_n[0]-nbase = 39	f.m_n[1]-nbase = 41
+f.m_n[1]-nbase = 41	f.m_n[2]-nbase = 4
+f.m_n[2]-nbase = 4	f.m_n[0]-nbase = 39
+第35個face:
+f.m_n[0]-nbase = 34	f.m_n[1]-nbase = 46
+f.m_n[1]-nbase = 46	f.m_n[2]-nbase = 4
+f.m_n[2]-nbase = 4	f.m_n[0]-nbase = 34
+第36個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 54
+f.m_n[1]-nbase = 54	f.m_n[2]-nbase = 44
+f.m_n[2]-nbase = 44	f.m_n[0]-nbase = 4
+第37個face:
+f.m_n[0]-nbase = 0	f.m_n[1]-nbase = 1
+f.m_n[1]-nbase = 1	f.m_n[2]-nbase = 43
+f.m_n[2]-nbase = 43	f.m_n[0]-nbase = 0
+第38個face:
+f.m_n[0]-nbase = 44	f.m_n[1]-nbase = 46
+f.m_n[1]-nbase = 46	f.m_n[2]-nbase = 4
+f.m_n[2]-nbase = 4	f.m_n[0]-nbase = 44
+第39個face:
+f.m_n[0]-nbase = 39	f.m_n[1]-nbase = 51
+f.m_n[1]-nbase = 51	f.m_n[2]-nbase = 4
+f.m_n[2]-nbase = 4	f.m_n[0]-nbase = 39
+第40個face:
+f.m_n[0]-nbase = 4	f.m_n[1]-nbase = 57
+f.m_n[1]-nbase = 57	f.m_n[2]-nbase = 49
+f.m_n[2]-nbase = 49	f.m_n[0]-nbase = 4
+第41個face:
+f.m_n[0]-nbase = 2	f.m_n[1]-nbase = 1
+f.m_n[1]-nbase = 1	f.m_n[2]-nbase = 48
+f.m_n[2]-nbase = 48	f.m_n[0]-nbase = 2
+第42個face:
+f.m_n[0]-nbase = 49	f.m_n[1]-nbase = 51
+f.m_n[1]-nbase = 51	f.m_n[2]-nbase = 4
+f.m_n[2]-nbase = 4	f.m_n[0]-nbase = 49
+第43個face:
+f.m_n[0]-nbase = 53	f.m_n[1]-nbase = 1
+f.m_n[1]-nbase = 1	f.m_n[2]-nbase = 4
+f.m_n[2]-nbase = 4	f.m_n[0]-nbase = 53
+第44個face:
+f.m_n[0]-nbase = 43	f.m_n[1]-nbase = 1
+f.m_n[1]-nbase = 1	f.m_n[2]-nbase = 53
+f.m_n[2]-nbase = 53	f.m_n[0]-nbase = 43
+第45個face:
+f.m_n[0]-nbase = 56	f.m_n[1]-nbase = 1
+f.m_n[1]-nbase = 1	f.m_n[2]-nbase = 4
+f.m_n[2]-nbase = 4	f.m_n[0]-nbase = 56
+第46個face:
+f.m_n[0]-nbase = 48	f.m_n[1]-nbase = 1
+f.m_n[1]-nbase = 1	f.m_n[2]-nbase = 56
+f.m_n[2]-nbase = 56	f.m_n[0]-nbase = 48
+0 Node Features:
+m_x:-6.004272 -5.995726 6.000000
+m_q:-6.004272 -5.995726 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:2.139925
+m_area:11.136177
+m_leaf:209050672
+m_battach:0
+
+1 Node Features:
+m_x:-0.004273 -5.999998 6.000000
+m_q:-0.004273 -5.999998 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000000 -0.000000 1.000000
+m_im:0.000000
+m_area:7.823921
+m_leaf:209050800
+m_battach:0
+
+2 Node Features:
+m_x:-6.004271 -5.995725 5.999994
+m_q:-6.004271 -5.995725 5.999994
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000001 -0.000000 1.000000
+m_im:2.015138
+m_area:11.136173
+m_leaf:209050928
+m_battach:0
+
+3 Node Features:
+m_x:-5.999999 0.004273 6.000000
+m_q:-5.999999 0.004273 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:0.000000
+m_area:10.688686
+m_leaf:209051056
+m_battach:0
+
+4 Node Features:
+m_x:-0.000004 -0.000002 6.000000
+m_q:-0.000004 -0.000002 6.000000
+m_v:0.000005 0.000011 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000004 -0.000000 -1.000000
+m_im:26698.644531
+m_area:3.526818
+m_leaf:209051184
+m_battach:0
+
+5 Node Features:
+m_x:-5.999999 0.004273 6.000000
+m_q:-5.999999 0.004273 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000001 -0.000001 1.000000
+m_im:0.000000
+m_area:10.688685
+m_leaf:209051312
+m_battach:0
+
+6 Node Features:
+m_x:-5.995727 6.004270 6.000000
+m_q:-5.995727 6.004270 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000000 0.000000 -1.000000
+m_im:2.659271
+m_area:9.973162
+m_leaf:209051440
+m_battach:0
+
+7 Node Features:
+m_x:0.004272 5.999999 6.000000
+m_q:0.004272 5.999999 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000000 0.000000 -1.000000
+m_im:0.000000
+m_area:2.626626
+m_leaf:209051568
+m_battach:0
+
+8 Node Features:
+m_x:-5.995727 6.004271 6.000004
+m_q:-5.995727 6.004271 6.000004
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000002 -0.000001 -1.000000
+m_im:2.614965
+m_area:9.973162
+m_leaf:209051696
+m_battach:0
+
+9 Node Features:
+m_x:-0.116005 5.139614 6.000000
+m_q:-0.116005 5.139614 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:31.447086
+m_area:11.941921
+m_leaf:209051824
+m_battach:0
+
+10 Node Features:
+m_x:-0.112419 5.165264 6.000000
+m_q:-0.112419 5.165264 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:6.400000
+m_area:0.090433
+m_leaf:209051952
+m_battach:0
+
+11 Node Features:
+m_x:-0.115872 5.135240 6.000000
+m_q:-0.115872 5.135240 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000001 0.000000 -1.000000
+m_im:7.663695
+m_area:2.791993
+m_leaf:209052080
+m_battach:0
+
+12 Node Features:
+m_x:-0.004012 5.165762 6.000000
+m_q:-0.004012 5.165762 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:15.366539
+m_area:0.090433
+m_leaf:209052208
+m_battach:0
+
+13 Node Features:
+m_x:-0.004234 5.135237 6.000000
+m_q:-0.004234 5.135237 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:16.982855
+m_area:0.573289
+m_leaf:209052336
+m_battach:0
+
+14 Node Features:
+m_x:-0.116006 5.139615 6.000000
+m_q:-0.116006 5.139615 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000001 0.000000 -1.000000
+m_im:13.714240
+m_area:11.941924
+m_leaf:209052464
+m_battach:0
+
+15 Node Features:
+m_x:-0.112419 5.165264 6.000000
+m_q:-0.112419 5.165264 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:6.400000
+m_area:0.090433
+m_leaf:209052592
+m_battach:0
+
+16 Node Features:
+m_x:-0.115872 5.135240 6.000000
+m_q:-0.115872 5.135240 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000001 0.000000 -1.000000
+m_im:7.990364
+m_area:2.791992
+m_leaf:209052720
+m_battach:0
+
+17 Node Features:
+m_x:-1.026965 2.089579 5.999999
+m_q:-1.026965 2.089579 5.999999
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000000 0.000000 -1.000000
+m_im:7.737052
+m_area:11.527909
+m_leaf:209052848
+m_battach:0
+
+18 Node Features:
+m_x:-1.024942 2.096352 5.999999
+m_q:-1.024942 2.096352 5.999999
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 0.000000
+m_im:5.900957
+m_area:0.000000
+m_leaf:209052976
+m_battach:0
+
+19 Node Features:
+m_x:-1.022703 2.080905 5.999999
+m_q:-1.022703 2.080905 5.999999
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000002 0.000001 -1.000000
+m_im:7.698533
+m_area:3.510367
+m_leaf:209053104
+m_battach:0
+
+20 Node Features:
+m_x:-1.026965 2.089578 5.999999
+m_q:-1.026965 2.089578 5.999999
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000001 -0.000000 -1.000000
+m_im:7.627292
+m_area:11.527916
+m_leaf:209053232
+m_battach:0
+
+21 Node Features:
+m_x:-1.024942 2.096351 5.999999
+m_q:-1.024942 2.096351 5.999999
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 0.000000
+m_im:5.490307
+m_area:0.000000
+m_leaf:209053360
+m_battach:0
+
+22 Node Features:
+m_x:-1.022703 2.080904 5.999999
+m_q:-1.022703 2.080904 5.999999
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000005 0.000002 -1.000000
+m_im:7.609511
+m_area:3.510368
+m_leaf:209053488
+m_battach:0
+
+23 Node Features:
+m_x:-4.581097 1.367988 6.000000
+m_q:-4.581097 1.367988 6.000000
+m_v:0.000000 0.000010 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:12.058912
+m_area:6.737160
+m_leaf:209053616
+m_battach:0
+
+24 Node Features:
+m_x:-4.582452 1.372428 6.000000
+m_q:-4.582452 1.372428 6.000000
+m_v:0.000000 0.000010 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:4.263606
+m_area:13.139591
+m_leaf:209053744
+m_battach:0
+
+25 Node Features:
+m_x:-4.576588 1.366639 6.000000
+m_q:-4.576588 1.366639 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:6.544885
+m_area:4.657518
+m_leaf:209053872
+m_battach:0
+
+26 Node Features:
+m_x:-1.910735 1.913457 6.000000
+m_q:-1.910735 1.913457 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000000 -0.000000 1.000000
+m_im:8.144141
+m_area:8.737193
+m_leaf:209054000
+m_battach:0
+
+27 Node Features:
+m_x:-1.902100 1.904808 6.000000
+m_q:-1.902100 1.904808 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:12.055569
+m_area:4.064038
+m_leaf:209054128
+m_battach:0
+
+28 Node Features:
+m_x:-4.581097 1.367989 6.000000
+m_q:-4.581097 1.367989 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000000 0.000000 -1.000000
+m_im:15.104465
+m_area:6.737161
+m_leaf:209054256
+m_battach:0
+
+29 Node Features:
+m_x:-4.582452 1.372429 6.000000
+m_q:-4.582452 1.372429 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000001 -0.000001 1.000000
+m_im:4.263606
+m_area:13.139579
+m_leaf:209054384
+m_battach:0
+
+30 Node Features:
+m_x:-4.576588 1.366642 6.000000
+m_q:-4.576588 1.366642 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000002 0.000006 -1.000000
+m_im:7.350056
+m_area:4.657510
+m_leaf:209054512
+m_battach:0
+
+31 Node Features:
+m_x:-1.910738 1.913458 6.000004
+m_q:-1.910738 1.913458 6.000004
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000004 -0.000004 1.000000
+m_im:8.987082
+m_area:8.737190
+m_leaf:209054640
+m_battach:0
+
+32 Node Features:
+m_x:-1.902102 1.904809 6.000004
+m_q:-1.902102 1.904809 6.000004
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000004 0.000006 -1.000000
+m_im:15.129086
+m_area:4.064037
+m_leaf:209054768
+m_battach:0
+
+33 Node Features:
+m_x:-1.454528 -0.550540 6.000000
+m_q:-1.454528 -0.550540 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:44.548176
+m_area:15.325615
+m_leaf:209054896
+m_battach:0
+
+34 Node Features:
+m_x:-1.440997 -0.545419 6.000000
+m_q:-1.440997 -0.545419 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:6.135733
+m_area:1.647271
+m_leaf:209055024
+m_battach:0
+
+35 Node Features:
+m_x:-1.459406 -0.549946 6.000000
+m_q:-1.459406 -0.549946 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:12.168743
+m_area:2.005236
+m_leaf:209055152
+m_battach:0
+
+36 Node Features:
+m_x:-2.344904 0.001668 6.000000
+m_q:-2.344904 0.001668 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:22.346622
+m_area:2.239175
+m_leaf:209055280
+m_battach:0
+
+37 Node Features:
+m_x:-2.360631 0.001681 6.000000
+m_q:-2.360631 0.001681 6.000000
+m_v:0.000000 0.000005 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:44.548176
+m_area:3.485987
+m_leaf:209055408
+m_battach:0
+
+38 Node Features:
+m_x:-1.454529 -0.550541 6.000000
+m_q:-1.454529 -0.550541 6.000000
+m_v:-0.000020 0.000005 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000001 -0.000000 1.000000
+m_im:48.800865
+m_area:15.325610
+m_leaf:209055536
+m_battach:0
+
+39 Node Features:
+m_x:-1.440998 -0.545420 6.000000
+m_q:-1.440998 -0.545420 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000004 -0.000011 1.000000
+m_im:6.339675
+m_area:1.647272
+m_leaf:209055664
+m_battach:0
+
+40 Node Features:
+m_x:-1.459406 -0.549947 6.000000
+m_q:-1.459406 -0.549947 6.000000
+m_v:0.000020 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:12.564797
+m_area:2.005238
+m_leaf:209055792
+m_battach:0
+
+41 Node Features:
+m_x:-2.344901 0.001671 6.000000
+m_q:-2.344901 0.001671 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:24.494129
+m_area:2.239173
+m_leaf:209055920
+m_battach:0
+
+42 Node Features:
+m_x:-2.360631 0.001680 6.000000
+m_q:-2.360631 0.001680 6.000000
+m_v:0.000000 -0.000003 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:48.800865
+m_area:3.485990
+m_leaf:209056048
+m_battach:0
+
+43 Node Features:
+m_x:-3.261538 -4.383197 6.000000
+m_q:-3.261538 -4.383197 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:28.202440
+m_area:8.346734
+m_leaf:209056176
+m_battach:0
+
+44 Node Features:
+m_x:-3.259080 -4.379893 6.000000
+m_q:-3.259080 -4.379893 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:6.378426
+m_area:4.143143
+m_leaf:209056304
+m_battach:0
+
+45 Node Features:
+m_x:-3.267634 -4.386781 6.000000
+m_q:-3.267634 -4.386781 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:7.610610
+m_area:4.206590
+m_leaf:209056432
+m_battach:0
+
+46 Node Features:
+m_x:-2.253087 -2.249879 6.000000
+m_q:-2.253087 -2.249879 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:15.270098
+m_area:2.274464
+m_leaf:209056560
+m_battach:0
+
+47 Node Features:
+m_x:-2.261084 -2.257864 6.000000
+m_q:-2.261084 -2.257864 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:16.860104
+m_area:3.791314
+m_leaf:209056688
+m_battach:0
+
+48 Node Features:
+m_x:-3.261538 -4.383197 6.000000
+m_q:-3.261538 -4.383197 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000001 -0.000001 1.000000
+m_im:36.789433
+m_area:8.346732
+m_leaf:209056816
+m_battach:0
+
+49 Node Features:
+m_x:-3.259080 -4.379893 6.000000
+m_q:-3.259080 -4.379893 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000003 -0.000002 -1.000000
+m_im:8.552042
+m_area:4.143143
+m_leaf:209056944
+m_battach:0
+
+50 Node Features:
+m_x:-3.267634 -4.386781 6.000000
+m_q:-3.267634 -4.386781 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000005 0.000005 1.000000
+m_im:9.811620
+m_area:4.206592
+m_leaf:209057072
+m_battach:0
+
+51 Node Features:
+m_x:-2.253086 -2.249877 5.999994
+m_q:-2.253086 -2.249877 5.999994
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000054 -0.000051 -1.000000
+m_im:19.805277
+m_area:2.274462
+m_leaf:209057200
+m_battach:0
+
+52 Node Features:
+m_x:-2.261083 -2.257863 5.999994
+m_q:-2.261083 -2.257863 5.999994
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:-0.000052 0.000052 1.000000
+m_im:21.305279
+m_area:3.791315
+m_leaf:209057328
+m_battach:0
+
+53 Node Features:
+m_x:-1.132061 -3.289138 6.000000
+m_q:-1.132061 -3.289138 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:14.221183
+m_area:6.892439
+m_leaf:209057456
+m_battach:0
+
+54 Node Features:
+m_x:-1.129956 -3.283022 6.000000
+m_q:-1.129956 -3.283022 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:8.564931
+m_area:5.750546
+m_leaf:209057584
+m_battach:0
+
+55 Node Features:
+m_x:-1.140420 -3.293433 6.000000
+m_q:-1.140420 -3.293433 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 0.000000
+m_im:14.248912
+m_area:0.000000
+m_leaf:209057712
+m_battach:0
+
+56 Node Features:
+m_x:-1.132061 -3.289138 6.000000
+m_q:-1.132061 -3.289138 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 1.000000
+m_im:14.651029
+m_area:6.892439
+m_leaf:209057840
+m_battach:0
+
+57 Node Features:
+m_x:-1.129956 -3.283022 6.000000
+m_q:-1.129956 -3.283022 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 -1.000000
+m_im:8.566299
+m_area:5.750546
+m_leaf:209057968
+m_battach:0
+
+58 Node Features:
+m_x:-1.140420 -3.293433 6.000000
+m_q:-1.140420 -3.293433 6.000000
+m_v:0.000000 0.000000 0.000000
+m_f:0.000000 0.000000 0.000000
+m_n:0.000000 0.000000 0.000000
+m_im:14.685719
+m_area:0.000000
+m_leaf:209058096
+m_battach:0
+

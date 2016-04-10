@@ -1,0 +1,160 @@
+0 face : 0 45 47
+1 face : 3 35 37
+2 face : 2 50 52
+3 face : 5 40 42
+4 face : 4 25 27
+5 face : 4 11 13
+6 face : 4 30 32
+7 face : 4 16 13
+8 face : 9 6 7
+9 face : 4 19 11
+10 face : 10 12 7
+11 face : 14 8 7
+12 face : 4 22 16
+13 face : 15 12 7
+14 face : 17 6 9
+15 face : 4 19 27
+16 face : 20 8 14
+17 face : 4 22 32
+18 face : 17 26 6
+19 face : 23 3 6
+20 face : 4 25 36
+21 face : 24 26 6
+22 face : 20 31 8
+23 face : 28 5 8
+24 face : 4 30 41
+25 face : 29 31 8
+26 face : 23 37 3
+27 face : 0 33 47
+28 face : 3 0 33
+29 face : 34 36 4
+30 face : 28 42 5
+31 face : 2 38 52
+32 face : 5 2 38
+33 face : 39 41 4
+34 face : 34 46 4
+35 face : 4 54 44
+36 face : 0 1 43
+37 face : 44 46 4
+38 face : 39 51 4
+39 face : 4 57 49
+40 face : 2 1 48
+41 face : 49 51 4
+42 face : 4 60 54
+43 face : 43 1 53
+44 face : 4 60 57
+45 face : 48 1 56
+46 face : 59 1 53
+47 face : 59 1 56
+0 link : 0 1
+1 link : 0 3
+2 link : 44 4
+3 link : 1 2
+4 link : 60 54
+5 link : 49 4
+6 link : 2 5
+7 link : 34 4
+8 link : 3 6
+9 link : 24 6
+10 link : 39 4
+11 link : 10 7
+12 link : 29 8
+13 link : 5 8
+14 link : 6 7
+15 link : 7 8
+16 link : 9 6
+17 link : 18 9
+18 link : 9 10
+19 link : 11 13
+20 link : 10 12
+21 link : 11 4
+22 link : 7 12
+23 link : 13 4
+24 link : 14 8
+25 link : 21 14
+26 link : 14 15
+27 link : 16 13
+28 link : 15 12
+29 link : 16 4
+30 link : 15 7
+31 link : 7 12
+32 link : 13 4
+33 link : 17 6
+34 link : 27 4
+35 link : 17 18
+36 link : 19 11
+37 link : 19 4
+38 link : 20 8
+39 link : 32 4
+40 link : 20 21
+41 link : 22 16
+42 link : 22 4
+43 link : 27 19
+44 link : 26 17
+45 link : 23 3
+46 link : 37 3
+47 link : 23 24
+48 link : 25 27
+49 link : 24 26
+50 link : 25 4
+51 link : 6 26
+52 link : 32 22
+53 link : 31 20
+54 link : 28 5
+55 link : 42 5
+56 link : 28 29
+57 link : 30 32
+58 link : 29 31
+59 link : 30 4
+60 link : 8 31
+61 link : 36 25
+62 link : 37 23
+63 link : 33 0
+64 link : 33 35
+65 link : 47 0
+66 link : 35 37
+67 link : 34 36
+68 link : 35 3
+69 link : 4 36
+70 link : 41 30
+71 link : 42 28
+72 link : 38 2
+73 link : 38 40
+74 link : 52 2
+75 link : 40 42
+76 link : 39 41
+77 link : 40 5
+78 link : 4 41
+79 link : 47 33
+80 link : 46 34
+81 link : 43 1
+82 link : 43 45
+83 link : 54 4
+84 link : 45 47
+85 link : 44 46
+86 link : 45 0
+87 link : 4 46
+88 link : 52 38
+89 link : 51 39
+90 link : 48 1
+91 link : 48 50
+92 link : 57 4
+93 link : 50 52
+94 link : 49 51
+95 link : 50 2
+96 link : 4 51
+97 link : 53 1
+98 link : 53 55
+99 link : 59 53
+100 link : 54 44
+101 link : 55 43
+102 link : 56 1
+103 link : 56 58
+104 link : 59 56
+105 link : 57 49
+106 link : 58 48
+107 link : 4 60
+108 link : 1 59
+109 link : 60 57
+110 link : 4 60
+111 link : 1 59

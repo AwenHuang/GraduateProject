@@ -1,0 +1,40 @@
+﻿已經開始建置於 2015/3/3 下午 08:10:57。
+     1>節點 3 (rebuild 目標) 上的專案 "C:\Users\jokeygeek\Desktop\Paper-Cutting System\build\Paper System\BulletSoftBody.vcxproj"。
+     1>_PrepareForClean:
+         正在刪除檔案 "obj\x32\Debug\BulletSoftBody\BulletSoftBody.lastbuildstate"。
+       InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "obj\x32\Debug\BulletSoftBody\BulletSoftBody.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\專題\自建專案\自建專案\include" /I..\..\src /Zi /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_DEPRECATE /D _HAS_EXCEPTIONS=0 /D _MBCS /Gm- /RTC1 /MTd /GS /Gy /fp:fast /Zc:wchar_t /Zc:forScope /GR- /Fo"obj\x32\Debug\BulletSoftBody\\" /Fd"..\..\lib\BulletSoftBody_vs2010_debug.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\BulletSoftBody\btDefaultSoftBodySolver.cpp ..\..\src\BulletSoftBody\btSoftBody.cpp ..\..\src\BulletSoftBody\btSoftBodyConcaveCollisionAlgorithm.cpp ..\..\src\BulletSoftBody\btSoftBodyHelpers.cpp ..\..\src\BulletSoftBody\btSoftBodyRigidBodyCollisionConfiguration.cpp ..\..\src\BulletSoftBody\btSoftRigidCollisionAlgorithm.cpp ..\..\src\BulletSoftBody\btSoftRigidDynamicsWorld.cpp ..\..\src\BulletSoftBody\btSoftSoftCollisionAlgorithm.cpp /MP 
+         btDefaultSoftBodySolver.cpp
+         btSoftBody.cpp
+         btSoftBodyConcaveCollisionAlgorithm.cpp
+         btSoftBodyHelpers.cpp
+         btSoftBodyRigidBodyCollisionConfiguration.cpp
+         btSoftRigidCollisionAlgorithm.cpp
+         btSoftRigidDynamicsWorld.cpp
+         btSoftSoftCollisionAlgorithm.cpp
+     1>..\..\src\BulletSoftBody\btSoftBody.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>..\..\src\BulletSoftBody\btSoftBodyHelpers.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>..\..\src\BulletSoftBody\btSoftBody.cpp(1041): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>..\..\src\BulletSoftBody\btSoftBody.cpp(2033): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>..\..\src\BulletSoftBody\btSoftBody.cpp(2869): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>..\..\src\BulletSoftBody\btSoftBody.cpp(3831): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"..\..\lib\BulletSoftBody_vs2010_debug.lib" /NOLOGO /MACHINE:X86 obj\x32\Debug\BulletSoftBody\btDefaultSoftBodySolver.obj
+         obj\x32\Debug\BulletSoftBody\btSoftBody.obj
+         obj\x32\Debug\BulletSoftBody\btSoftBodyConcaveCollisionAlgorithm.obj
+         obj\x32\Debug\BulletSoftBody\btSoftBodyHelpers.obj
+         obj\x32\Debug\BulletSoftBody\btSoftBodyRigidBodyCollisionConfiguration.obj
+         obj\x32\Debug\BulletSoftBody\btSoftRigidCollisionAlgorithm.obj
+         obj\x32\Debug\BulletSoftBody\btSoftRigidDynamicsWorld.obj
+         obj\x32\Debug\BulletSoftBody\btSoftSoftCollisionAlgorithm.obj
+         BulletSoftBody.vcxproj -> C:\Users\jokeygeek\Desktop\Paper-Cutting System\build\Paper System\..\..\lib\BulletSoftBody_vs2010_debug.lib
+       FinalizeBuildStatus:
+         正在刪除檔案 "obj\x32\Debug\BulletSoftBody\BulletSoftBody.unsuccessfulbuild"。
+         正在變更時間戳記 "obj\x32\Debug\BulletSoftBody\BulletSoftBody.lastbuildstate"。
+     1>專案 "C:\Users\jokeygeek\Desktop\Paper-Cutting System\build\Paper System\BulletSoftBody.vcxproj" (rebuild 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:03.35

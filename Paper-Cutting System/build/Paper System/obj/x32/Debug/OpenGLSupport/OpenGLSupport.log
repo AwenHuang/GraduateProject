@@ -1,0 +1,32 @@
+﻿已經開始建置於 2015/3/3 下午 08:22:11。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\jokeygeek\Desktop\Paper-Cutting System\build\Paper System\OpenGLSupport.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "obj\x32\Debug\OpenGLSupport\OpenGLSupport.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\專題\自建專案\自建專案\include" /I..\..\Demos\OpenGL /I..\..\src /I..\..\Glut /Zi /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_DEPRECATE /D _HAS_EXCEPTIONS=0 /D _MBCS /Gm- /RTC1 /MTd /GS /Gy /fp:fast /Zc:wchar_t /Zc:forScope /GR- /Fo"obj\x32\Debug\OpenGLSupport\\" /Fd"..\..\lib\OpenGLSupport_vs2010_debug.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Demos\OpenGL\GlutStuff.cpp /MP 
+         GlutStuff.cpp
+         Note: including lib: glut32.lib
+         
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"..\..\lib\OpenGLSupport_vs2010_debug.lib" /NOLOGO /MACHINE:X86 obj\x32\Debug\OpenGLSupport\DemoApplication.obj
+         obj\x32\Debug\OpenGLSupport\GLDebugDrawer.obj
+         obj\x32\Debug\OpenGLSupport\GLDebugFont.obj
+         obj\x32\Debug\OpenGLSupport\GlutDemoApplication.obj
+         obj\x32\Debug\OpenGLSupport\GlutStuff.obj
+         obj\x32\Debug\OpenGLSupport\GL_DialogDynamicsWorld.obj
+         obj\x32\Debug\OpenGLSupport\GL_DialogWindow.obj
+         obj\x32\Debug\OpenGLSupport\GL_ShapeDrawer.obj
+         obj\x32\Debug\OpenGLSupport\GL_Simplex1to4.obj
+         obj\x32\Debug\OpenGLSupport\RenderTexture.obj
+         obj\x32\Debug\OpenGLSupport\stb_image.obj
+         obj\x32\Debug\OpenGLSupport\Win32AppMain.obj
+         obj\x32\Debug\OpenGLSupport\Win32DemoApplication.obj
+         OpenGLSupport.vcxproj -> C:\Users\jokeygeek\Desktop\Paper-Cutting System\build\Paper System\..\..\lib\OpenGLSupport_vs2010_debug.lib
+       FinalizeBuildStatus:
+         正在刪除檔案 "obj\x32\Debug\OpenGLSupport\OpenGLSupport.unsuccessfulbuild"。
+         正在變更時間戳記 "obj\x32\Debug\OpenGLSupport\OpenGLSupport.lastbuildstate"。
+     1>專案 "C:\Users\jokeygeek\Desktop\Paper-Cutting System\build\Paper System\OpenGLSupport.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.21
